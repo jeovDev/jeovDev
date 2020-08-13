@@ -1,4 +1,4 @@
-###👋 Hi there, I am Jeovanne
+### 👋 Hi there, I am Jeovanne
 
  Graduate of Bachelor of Science in Information Technology Major in Programming at PHINMA Cagayan de Oro College, PH; an enthusiastic , self-motivated and passionate in Software & Web Development . 
 <!--
