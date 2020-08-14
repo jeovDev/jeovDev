@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript Frameworks
 - 🤔 I’m looking for help with Javascript Frameworks
 - 📫 How to reach me: [Gmail - jeovanneclugo@gmail.com] 
-- ⚡ Fun fact:  I play guitar , Making digital Arts, and Listening to Music
+- ⚡ Fun fact:  I play guitar , Make digital Arts, and Listening to Music
 
 **Languages and Tools:**  
 
