@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Javascript Frameworks
 - 🤔 I’m looking for help with Javascript Frameworks
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Gmail - jeovanneclugo@gmail.com] (https://gmail.com)
 - ⚡ Fun fact:  I play guitar , Making digital Arts, and Listening to Music
 
