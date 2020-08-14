@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-
+<br/>
 <b>II Corinthians 8:11-12</b>
 
 <i> Now finish the work. When you started, you wanted very much to do it. Now be as ready to finish it. Give what you can give.
