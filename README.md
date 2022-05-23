@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Jeovanne.
 
- I am a Software Developer
+ I am a Windows Application Develoepr
 <!--
 **jeovDev/jeovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
